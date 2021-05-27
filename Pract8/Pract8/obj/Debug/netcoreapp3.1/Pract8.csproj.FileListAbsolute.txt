@@ -1,0 +1,13 @@
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.exe
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.deps.json
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.runtimeconfig.json
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.runtimeconfig.dev.json
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.dll
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\bin\Debug\netcoreapp3.1\Pract8.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.csprojAssemblyReference.cache
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.AssemblyInfoInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.AssemblyInfo.cs
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.csproj.CoreCompileInputs.cache
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.dll
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.pdb
+C:\Users\MaximNagibator228`\source\repos\Pract8\Pract8\obj\Debug\netcoreapp3.1\Pract8.genruntimeconfig.cache
